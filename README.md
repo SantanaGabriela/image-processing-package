@@ -1,4 +1,4 @@
-# package_name
+# Package_image_processing
 
 Description. 
 The package package_name is used to:
